@@ -1,7 +1,7 @@
 # Task_2
 
 ## Objective:
-Design a library database in Task 1 with proper schema. NOw, insert data, update records, and handle deletions while handling NULL values.
+Design a library database in Task 1 with proper schema. Now, insert data, update records, and handle deletions while handling NULL values.
 ---
 
 ## Tools Used:
